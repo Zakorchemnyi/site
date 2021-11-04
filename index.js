@@ -9,10 +9,10 @@ let pencils=7;
 console.log(pens/pencils);
 if (i>a)
 {console.log ("'i' is more than 'a'");};
-function showMessage() {
+/*function showMessage() {
 console.log("Hello");
 }
-showMessage();
+showMessage();*/
 let data={Country:"Ukraine", City:"Lviv"};
 data.Country="Germany";
 console.log(data.Country);
@@ -24,7 +24,7 @@ let z=i-=a;
 console.log(z);
 console.log(i**i);
 console.log(a/i);
-if (i!=a)
+if (i!=a) //comment i is not equal a.
 {console.log('"i ne dorivnue a"')};
 console.log(i===a);
 console.log(pens==pencils);
