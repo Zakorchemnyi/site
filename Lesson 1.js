@@ -1,0 +1,15 @@
+let i=7;
+const a=3;
+let b="Surname";
+console.log(typeof a);
+console.log(typeof b);
+console.log(i*a);
+let pens=15;
+let pencils=7;
+console.log(pens/pencils);
+console.log(a/i);
+console.log(i===a);
+console.log(pens==pencils);
+let firstName="Andrii";
+let secondName="ANDRII";
+console.log(firstName===secondName);
