@@ -1,10 +1,3 @@
-/*let i=7;
-let a=3;
-console.log(i*a);
-let pens=15;
-let pencils=7;
-console.log(pens+pencils);
-*/
 const cars = {};
     cars.new = 7;
     cars.needToRepair = 2;
